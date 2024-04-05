@@ -1,0 +1,8 @@
+mongodb--
+
+3hxFG0Ony0my4mee
+mongodb+srv://dilukahewage1998:3hxFG0Ony0my4mee@cluster0.vx8krrh.mongodb.net/
+
+google api key--
+ 
+AIzaSyBoVslhdnBJ2UmvVy0vXqLbAMQm6mWPaZk
